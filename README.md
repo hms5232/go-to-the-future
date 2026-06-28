@@ -1,6 +1,8 @@
 # go-to-the-future
 A command-line tool to establish a temporal tunnel and transport you to the future.
 
+![demo](https://i.postimg.cc/jdTCdJYY/e5845607-1fc5-43f0-a87e-bfad9f80d1b1-ezgif-com-video-to-gif-converter.gif)
+
 ## Usage
 
 > `gtf` is abbr of "go to the future".
